@@ -1,0 +1,11 @@
+ase
+networkx
+torch
+torch-cluster
+torch-geometric
+torch-scatter
+rdkit
+pathlib
+pandas
+numpy
+dscribe
