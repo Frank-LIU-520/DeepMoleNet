@@ -1,6 +1,7 @@
 # DeepMoleNet
 
-DeepMoleNet is a deep learning package for molecular properties prediction. It is developed with a multi-level attention mechanism to enable chemical interpretable insights being fused into multi-task learning through (1) weighting contributions from various atoms and (2) taking the atom-centered symmetry functions (ACSFs) as the teacher descriptor, rather than using ACSFs as input in the conventional way. The properties including dipole moment, HOMO, and Gibbs free energy within chemical accuracy are achieved by using multiple benchmarks, both at the equilibrium and non-equilibrium geometries.
+
+  DeepMoleNet is a deep learning package for molecular properties prediction. It is developed with a multi-level attention mechanism to enable chemical interpretable insights being fused into multi-task learning through (1) weighting contributions from various atoms and (2) taking the atom-centered symmetry functions (ACSFs) as the teacher descriptor, rather than using ACSFs as input in the conventional way. The properties including dipole moment, HOMO, and Gibbs free energy within chemical accuracy are achieved by using multiple benchmarks, both at the equilibrium and non-equilibrium geometries.
 
       To cite this algorithm, please reference: Ziteng Liu, Liqiang Lin, Qingqing Jia, Zheng Cheng, Yanyan Jiang, Yanwen Guo*, Jing Ma*. "Transferable multi-level attention neural network for accurate prediction of quantum chemistry properties via multi-task learning." ChemRxiv 12588170 (2020): v1.
       
@@ -15,4 +16,4 @@ After download the code, one can use DeepMoleNet model in the following steps:
 
 We also provide trained models of single-target and multi-target results trained on QM9, models trained on MD17 and models trained on ANI-1ccx for reporoducibility and other uses like transfer learning on small dataset.
 
-Please feel free to contact us via njuziteng@hotmail.com for any questions.
+Please feel free to contact us via majing@nju.edu.cn for any questions.
