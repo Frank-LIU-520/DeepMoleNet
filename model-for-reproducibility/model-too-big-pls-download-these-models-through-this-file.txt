@@ -1,6 +1,8 @@
 Since these trained models are bigger than 25Mb, which is the limit of Github.
 Please down load these models for reproducibility via the link below
 
-Link£ºhttps://pan.baidu.com/s/1xHB8CfYlpFZLirnoY72bTg 
 
-Password£ºyaec 
+Please visit the following website for detail in our codes.
+
+https://itcc.nju.edu.cn/majing/software_en.html
+http://106.15.196.160:5659/
