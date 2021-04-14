@@ -2,6 +2,7 @@
 
 
   DeepMoleNet is a deep learning package for molecular properties prediction. It is developed with a multi-level attention mechanism to enable chemical interpretable insights being fused into multi-task learning through (1) weighting contributions from various atoms and (2) taking the atom-centered symmetry functions (ACSFs) as the teacher descriptor, rather than using ACSFs as input in the conventional way. The properties including dipole moment, HOMO, and Gibbs free energy within chemical accuracy are achieved by using multiple benchmarks, both at the equilibrium and non-equilibrium geometries.
+  Our model is also the champion solution of Codalab Alchemy Contest with the former name ape-MPNN. https://alchemy.tencent.com/
 
       To cite this algorithm, please reference: Ziteng Liu, Liqiang Lin, Qingqing Jia, Zheng Cheng, Yanyan Jiang, Yanwen Guo*, Jing Ma*. "Transferable multilevel attention neural network for accurate prediction of quantum chemistry properties via multitask learning." JCIM 2021 https://doi.org/10.1021/acs.jcim.0c01224   https://pubs.acs.org/doi/10.1021/acs.jcim.0c01224#
       
