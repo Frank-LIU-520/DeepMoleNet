@@ -17,6 +17,5 @@ After download the code, one can use DeepMoleNet model in the following steps:
 
 We also provide trained models of single-target and multi-target results trained on QM9, models trained on MD17 and models trained on ANI-1ccx for reporoducibility and other uses like transfer learning on small dataset.
 
-Please feel free to contact us via majing@nju.edu.cn for any questions.
-Please visit the following website for details and updates in our codes.
+Please feel free to contact us via majing@nju.edu.cn for any questions and visit the following website for details and updates in our codes.
 https://itcc.nju.edu.cn/majing/software_en.html
